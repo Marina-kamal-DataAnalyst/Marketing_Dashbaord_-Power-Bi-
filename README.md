@@ -30,7 +30,7 @@ To analyze **Fitbit marketing campaign performance** by visualizing sales, click
 * How do age group and location affect sales performance?
 
 -Dashboard Interaction <a href="https://github.com/Marina-kamal-DataAnalyst/Marketing_Dashbaord_-Power-Bi-/blob/main/FitBigMarketing_Dashboard.png">View Dashboard_part 1</a>
--Dashboard Interaction <a href="https://github.com/Marina-kamal-DataAnalyst/Marketing_Dashbaord_-Power-Bi-/blob/main/FitbitMarketing_Decompision%20Tree.png">View Dashboard_part 1</a>
+-Dashboard Interaction <a href="https://github.com/Marina-kamal-DataAnalyst/Marketing_Dashbaord_-Power-Bi-/blob/main/FitbitMarketing_Decompision%20Tree.png">View Dashboard_part 2</a>
 
 ---
 
