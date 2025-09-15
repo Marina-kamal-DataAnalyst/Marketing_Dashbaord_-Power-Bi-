@@ -1,8 +1,3 @@
-تمام ✅
-أنا فهمت قصدك — عايزة نفس التنسيق اللي عملناه مع **HR Attrition Dashboard** يتعمل هنا على **Fitbit Marketing Dashboard**، بحيث يبقى مناسب تتحطيه على GitHub.
-عملتلك نسخة جاهزة:
-
----
 
 # Fitbit Marketing Dashboard – Sales & Campaign Insights (Interactive Dashboard using Power BI)
 
@@ -78,5 +73,4 @@ The **Fitbit Marketing Dashboard** delivers valuable insights into campaign effe
 
 ---
 
-هل تحبي أجهزلك النسخة دي كـ **README.md ملف جاهز للـ GitHub** مع الصور اللي رفعتيها تتحط تلقائيًا جوا الكود؟
 
